@@ -17,6 +17,7 @@ DEPS=(
         prometheus
         prometheus-alertmanager
         prometheus-node-exporter
+	prometheus-pushgateway
 	iptables
 	iptables-persistent
         dh-make
